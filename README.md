@@ -43,7 +43,7 @@
 -   HD.com has at least two AI chat tools.\
 -   I've used them at work; they are helpful.\
 -   It is 2026 and there has been no in-store rollout or adoption.\
--   Are we giving up the race to Lowes (who collaborate with OpenAI) ?
+-   Are we giving up the race to Lowes (OpenAI's proxy) ?
 
 ------------------------------------------------------------------------
 
