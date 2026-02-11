@@ -44,7 +44,7 @@
 - Turn trailers into Electronic Billboard (BB). Form a task force to exploit. 
 - Go aggressive. Use the space.
 
-![parking lot](/ParkLot_bb.png)
+![parking lot](THD%20parklot%20BB.png)
 
 ### 🧟 Zombie Zones (Inside Store)
 
@@ -57,6 +57,8 @@ Dead zones. No SKU motion. Poor image.
 - Tight. Cramped.  
 - Extend into ZZ1 + ZZ2.  
 - Mira Mesa store = good template.
+
+![self checkout](self-check-miramesa.webp)
 
 ### 🧟 Zombie Store Exit
 
@@ -98,6 +100,22 @@ Dead zones. No SKU motion. Poor image.
 
 ![AI bots](THD_vs_Lowes_16x9.png)
 
+### Capture 2026 EVGo Opportunities
+
+- EVGo stations = walk-ins of affluent, tech-savy DIY cust
+- Remake Dept 31 to cap on the walk-ins opporunities
+- Goal: to increase store sale or to increase the Will-Call pickup's
+- Elements of remake plan:
+- 1) from Curbside to “EVGo-side”
+- 2) handout of HD AI brochure (User Onboarding) 
+- 3) vanilla flyer with plain message: 
+"THD Efficiency: Charge your car. Get ready for your home project — all at the same time"
+
+
+![efficiency flyer](THD%20Efficiency.png)
+
+
+
 ---
 
 ## Something to Learn:
@@ -105,6 +123,7 @@ Dead zones. No SKU motion. Poor image.
 - **Rental Department** – Want to know how tools work.  
 - Expand skill set.  
 - Explore Electronic BB idea with team.
+- Explore EVgo-side/THD Efficiecy flyer idea with team.
 
 ---
 
