@@ -44,10 +44,10 @@ Poway HomeDepot
 
 Dead zones. No SKU motion. Poor image.
 
-- **ZZ1** – Corridor behind Pro & Checkout. Dusty. Low energy.  
-- **ZZ2** – Head Cashier vault. Gated. Tapes. Blocks. Looks messy.  
+- **ZZ1** – Corridor behind Pro & Checkout (before the exits). Tool chest SKUs. Dusty. Low energy.  
+- **ZZ2** – Head Cashier Vault. Gated. Tapes. Blocks (what for?). Looks messy.  
 
-**DIY Self Checkout**
+### Re-Layout DIY Self Checkout
 - Tight. Cramped.  
 - Extend into ZZ1 + ZZ2.  
 - Mira Mesa store = good template.
