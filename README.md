@@ -1,10 +1,10 @@
 # PACE (2026): Hsien Tang Chen
+Poway HomeDepot
 
-### Poway HomeDepot
-------------------------------------------------------------------------
 
 ## What Went Well
 
+## I feel positive on Team and Tool
 -   **OrderUp** -- Strong tool. I've learned to use it efficiently and
     continue finding better ways to work inside it.\
 -   **Fulfillment Team** -- Reliable, fast under short deadlines, and
@@ -12,22 +12,67 @@
 -   **MET Team** -- Consistently reset the floor (Halloween → Christmas
     → Spring) smoothly and professionally. Big visible impact.
 
-------------------------------------------------------------------------
+---
+
+## 👀 I see Leadership
+
+- **Dept 31** – Solid coaching. Real team building.  
+- **David on HD phone** – “Let’s keep the phone on. Let's talk and reply over the phone. Lets make today a win day.”  
+  That’s leadership. That’s orchestra energy.
+
+---
+
+## 📈 I see the value of Peformance Guidelines
+
+- **LTPA Reviews** – Asking for LTPA reviews anchors performance and reinforces customer experience.  
+- **Entrance Greeting Practice** – Strong first impression; improves in-store experience and opens sales opportunities.  
+
+---
 
 ## Went Not So Well
 
-### Lack of Backup (BAR Increasing)
+---
 
--   My "Backup Answered Rate" (BAR) used to be \~3 calls.\
--   Recently it has increased to 5+ calls before help arrives.\
--   Idle time in other departments while Service Desk is calling for
-    backup...
+### 🧟 Zombies in Parking Lot
 
-### Poor Phone Responsiveness
+- Two 40-ft trailers block store view. Traffic leaks to Costco. Why are they there?  
+- We have a panoramic lot — most stores envy it.  
+- Turn trailers into Electronic Billboard (BB). Form a task force to exploit. 
+- Go aggressive. Use the space.
 
--   Many HD phone calls go unanswered.
--   Transferred customer calls often bounce back.
--   When MOD enforced "keep HD phone on, keep communicate on the phone," response improved immediately.
+### 🧟 Zombie Zones (Inside Store)
+
+Dead zones. No SKU motion. Poor image.
+
+- **ZZ1** – Corridor behind Pro & Checkout. Dusty. Low energy.  
+- **ZZ2** – Head Cashier vault. Gated. Tapes. Blocks. Looks messy.  
+
+**DIY Self Checkout**
+- Tight. Cramped.  
+- Extend into ZZ1 + ZZ2.  
+- Mira Mesa store = good template.
+
+### 🧟 Zombie Store Exit
+
+- Customer exits → sees pile of carts + lumber carts.  
+- Last memory = clutter.  
+- Suggest Electronic BB synced with parking lot BB.
+
+
+### 🧟 Zombie Backup (BAR Jump in Service Desk) 
+
+- Backup Answered Rate (BAR) was ~3 calls (before getting help).  
+- Now 5+ calls.  
+- Feels like solo music on HD phone.  
+- Not everyone replies, with exceptions of Ken and Karyn (kudos to them).
+
+### 🎼 In-store Solo or Orchestra?
+
+- We all carry HD phone. Calls can be heard by assoc and by cust  
+- Many don’t reply. A non-replied call = solo. 
+- MOD = conductor.  
+- “On my way.” reply → in-store Orchestra  
+- Orchestra = better teamwork, better cust experience.
 
 ### "Kicking the Can" Culture
 
@@ -45,22 +90,25 @@
 -   It is 2026 and there has been no in-store rollout or adoption.\
 -   Are we giving up the race to Lowes (OpenAI's proxy) ?
 
-------------------------------------------------------------------------
+---
+
 ## Something to Learn:
 
-- Rental Department – I humbly want to understand how the tools work and how the rental process operates.  
+- **Rental Department** – Want to know how tools work.  
+- Expand skill set.  
+- Explore Electronic BB idea with team.
 
-------------------------------------------------------------------------
+---
+
 ## Next 6 Months Goals
 
 -   Continue improving OrderUp efficiency and resolution speed.\
 -   Monitor Corporate AI direction and Pro customer response.\
--   Cross-train in Tool Rental to expand store contribution.
 
 ------------------------------------------------------------------------
 
 ## Support Requested
 
--   Opprtunity to help unleash the Elephant...
--   Clearer enforcement of backup expectations and phone responsiveness.\
--   Up my rate...
+- Let me help unleash the Elephant.
+- Encourage MOD to play Conducutor and keep the in-store Orchestra. 
+- Up my pay scale.
