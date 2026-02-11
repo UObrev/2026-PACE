@@ -21,7 +21,7 @@
 -   My "Backup Answered Rate" (BAR) used to be \~3 calls.\
 -   Recently it has increased to 5+ calls before help arrives.\
 -   Idle time in other departments while Service Desk is calling for
-    backup increases wait time.
+    backup...
 
 ### Poor Phone Responsiveness
 
