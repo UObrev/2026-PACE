@@ -1,5 +1,9 @@
 # PACE (2026): Hsien Tang Chen
-Poway HomeDepot
+- Poway HomeDepot
+
+- access this page: https://github.com/UObrev/2026-PACE
+
+
 
 
 ## What Went Well
@@ -39,6 +43,8 @@ Poway HomeDepot
 - We have a panoramic lot — most stores envy it.  
 - Turn trailers into Electronic Billboard (BB). Form a task force to exploit. 
 - Go aggressive. Use the space.
+
+![parking lot](/ParkLot_bb.png)
 
 ### 🧟 Zombie Zones (Inside Store)
 
@@ -88,7 +94,9 @@ Dead zones. No SKU motion. Poor image.
 -   HD.com has at least two AI chat tools.\
 -   I've used them at work; they are helpful.\
 -   It is 2026 and there has been no in-store rollout or adoption.\
--   Are we giving up the race to Lowes (OpenAI's proxy) ?
+-   Are we giving up the race to Lowes (OpenAI's proxy into the Constructional AI) ?
+
+![AI bots](THD_vs_Lowes_16x9.png)
 
 ---
 
