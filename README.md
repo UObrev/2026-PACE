@@ -66,13 +66,13 @@ Dead zones. No SKU motion. Poor image.
 - Feels like solo music on HD phone.  
 - Not everyone replies, with exceptions of Ken and Karyn (kudos to them).
 
-### 🎼 In-store Solo or Orchestra?
+### 🎼 "On My Way" Reply = Orchestra
 
 - We all carry HD phone. Calls can be heard by assoc and by cust  
 - Many don’t reply. A non-replied call = solo. 
-- MOD = conductor.  
 - “On my way.” reply → in-store Orchestra  
 - Orchestra = better teamwork, better cust experience.
+- MOD is the conductor. reinforcing HD Orchestra... 
 
 ### "Kicking the Can" Culture
 
