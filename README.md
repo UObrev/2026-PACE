@@ -49,7 +49,6 @@
 ## Something to Learn:
 
 - Rental Department – I humbly want to understand how the tools work and how the rental process operates.  
-- I believe gaining this knowledge will make me more useful to the store and improve how I support customers.
 
 ------------------------------------------------------------------------
 ## Next 6 Months Goals
