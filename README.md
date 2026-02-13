@@ -36,6 +36,24 @@
 ## Went Not So Well (this to share my thoughts...)
 
 ---
+### 🛠 Improve Accuracy + Tool Familiarity
+
+- Get sharper with Tools: OrderUp, Return One, Pro Xtra, SPOS  
+- Continuously improve accuracy.  
+- Understand Rental system workflow end-to-end
+
+### 🌐 Understand the THD Ecosystem
+
+- Deep dive into service providers + vendors  
+- Understand logistics flow (who moves what, how, and when)  
+- Learn full store workflow — not just Service Desk bubble  
+- See how all pieces connect
+
+### Gain Race Track Smart and Become Aisle Proficient
+
+- Answer customer questions with confidence + accuracy  
+- Know where frequent commodities are — no guessing
+- Stay alert on seasonal pushes
 
 ### Prep for EVgo Walk-Ins
 
