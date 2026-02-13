@@ -73,7 +73,7 @@
 
 - BRC = Backup Request Calls.
 
-- Before: ~3 calls to get backup. Now: 5+ calls.
+- Before: it took 1.5 to 2 calls to get backup. Now: 4+ calls.
 
 - I feel we are slipping here. Needs reinforcement.
 
