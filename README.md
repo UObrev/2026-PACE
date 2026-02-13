@@ -4,18 +4,11 @@
 - access this page: https://github.com/UObrev/2026-PACE
 
 
-```
-  included: mock-up flyer, mock-up BB design, and Self Checkout layout.
-```
 
-/
-/
-Below are My PACE responses
-/
 
 ## What Went Well
 
-## I feel positive on Team and Tool
+## I feel positive on Team and Tools
 -   **OrderUp** -- Strong tool. I've learned to use it efficiently and
     continue finding better ways to work inside it.\
 -   **Fulfillment Team** -- Reliable, fast under short deadlines, and
@@ -40,7 +33,7 @@ Below are My PACE responses
 
 ---
 
-## Went Not So Well (suggestions)
+## Went Not So Well (this to share my thoughts...)
 
 ---
 
