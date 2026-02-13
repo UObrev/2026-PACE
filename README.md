@@ -48,17 +48,6 @@
 ![efficiency flyer](THD%20Efficiency.png)
 
 
-### Divert Costco Traffic to THD Parking Lot
-
-- Would be nice if we could divert some customer flow from Costco to THD.
-
-- We constantly have 40ft trailers or containers parking long duration in the lot.
-
-- Suggest mount billboards, and face toward traffic to attract attention and redirect interest.
-
-![parking lot](THD%20parklot%20BB.png)
-
-
 ### Remap the "Cold Corridor" 
 
 - Corridor behind ice chest wall = low energy, low SKU motion.
@@ -101,7 +90,7 @@
 
 - **Rental Department** – Want to know how tools work.  
 - Expand skill set.  
-- Explore Parking-Lot BB idea with team.
+- Explore Pro Demo Kiosk idea with team.
 - Explore EVgo-side/THD Efficiecy flyer idea with team.
 
 ---
