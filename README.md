@@ -115,6 +115,6 @@
 
 ## Support Requested
 
-- Let me help tamming the Elephant.
+- Let me help tame the Elephant (practical use, to start with Pros!).
 - Encourage MOD to play Conducutor and keep the in-store Orchestra. 
 - Up my pay scale, please :-)
