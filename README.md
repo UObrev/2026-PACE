@@ -71,7 +71,7 @@
 
 ### Need to Lower BRC counts
 
-- BRC = Backup Request Calls.
+- BRC = Backup Request Calls. When surge in return line, we ring BRC.
 
 - Before: it took 1.5 to 2 calls to get backup. Now: 4+ calls.
 
