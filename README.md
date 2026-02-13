@@ -4,7 +4,14 @@
 - access this page: https://github.com/UObrev/2026-PACE
 
 
+```
+  included: mock-up flyer, mock-up BB design, and Self Checkout layout.
+```
 
+/
+/
+Below are My PACE responses
+/
 
 ## What Went Well
 
@@ -33,96 +40,75 @@
 
 ---
 
-## Went Not So Well
+## Went Not So Well (suggestions)
 
 ---
 
-### 🧟 Zombies in Parking Lot
+### Prep for EVgo Walk-Ins
 
-- Two 40-ft trailers block store view. Traffic leaks to Costco. Why are they there?  
-- We have a panoramic lot — most stores envy it.  
-- Turn trailers into Electronic Billboard (BB). Form a task force to exploit. 
-- Go aggressive. Use the space.
+- EVgo chargers -> more walk-ins. Would be nice if we could prep D-31 for that opportunity.
 
-![parking lot](THD%20parklot%20BB.png)
+- Suggest flyers and posters: key message "THD Efficiency: Charge your car. Get ready for your home project — all at the same time."
 
-### 🧟 Zombie Zones (Inside Store)
-
-Dead zones. No SKU motion. Poor image.
-
-- **ZZ1** – Corridor behind Pro & Checkout (before the exits). Tool chest SKUs. Dusty. Low energy.  
-- **ZZ2** – Head Cashier Vault. Gated. Tapes. Blocks (what for?). Looks messy.  
-
-### Re-Layout DIY Self Checkout
-- Tight. Cramped.  
-- Extend into ZZ1 + ZZ2.  
-- Mira Mesa store = good template.
-
-![self checkout](self-check-miramesa.webp)
-
-### 🧟 Zombie Store Exit
-
-- Customer exits → sees pile of carts + lumber carts.  
-- Last memory = clutter.  
-- Suggest Electronic BB synced with parking lot BB.
-
-
-### 🧟 Zombie Backup (BAR Jump in Service Desk) 
-
-- Backup Answered Rate (BAR) was ~3 calls (before getting help).  
-- Now 5+ calls.  
-- Feels like solo music on HD phone.  
-- Not everyone replies, with exceptions of Ken and Karyn (kudos to them).
-
-### 🎼 "On My Way" Reply = Orchestra
-
-- We all carry HD phone. Calls can be heard by assoc and by cust  
-- Many don’t reply. A non-replied call = solo. 
-- “On my way.” reply → in-store Orchestra  
-- Orchestra = better teamwork, better cust experience.
-- MOD is the conductor. reinforcing HD Orchestra... 
-
-### "Kicking the Can" Culture
-
--   Some long-standing issues remain tolerated instead of resolved.\
--   Military phone ID misuse continues.\
--   No-receipt return loophole (splitting large returns into smaller
-    transactions).\
--   Return/POS inconsistencies create uneven enforcement.\
--   Got kicked down the street....
-
-### "Not Seeing the Elephant in the Room" (AI)
-
--   HD.com has at least two AI chat tools.\
--   I've used them at work; they are helpful.\
--   It is 2026 and there has been no in-store rollout or adoption.\
--   Are we giving up the race to Lowes (OpenAI's proxy into the Constructional AI) ?
-
-![AI bots](THD_vs_Lowes_16x9.png)
-
-### Capture 2026 EVGo Opportunities
-
-- EVGo stations = walk-ins of affluent, tech-savy DIY cust
-- Remake Dept 31 to cap on the walk-ins opporunities
-- Goal: to increase store sale or to increase the Will-Call pickup's
-- Elements of remake plan:
-- 1) from Curbside to “EVGo-side”
-- 2) handout of HD AI brochure (User Onboarding) 
-- 3) vanilla flyer with plain message: 
-"THD Efficiency: Charge your car. Get ready for your home project — all at the same time"
-
+- Would be nice if we could explore the "EVgo-side" service concept.
 
 ![efficiency flyer](THD%20Efficiency.png)
 
 
+### Divert Costco Traffic to THD Parking Lot
+
+- Would be nice if we could divert some customer flow from Costco to THD.
+
+- We constantly have 40ft trailers or containers parking long duration in the lot.
+
+- Suggest mount billboards, and face toward traffic to attract attention and redirect interest.
+
+![parking lot](THD%20parklot%20BB.png)
+
+
+### Remap the "Cold Corridor" 
+
+- Corridor behind ice chest wall = low energy, low SKU motion.
+
+- Would be nice if we could use it to expand DIY Self Checkout.
+
+- I feel Mira Mesa store did a good job in this area.
+
+![self checkout](self-check-miramesa.webp)
+
+### Need to Lower BRC counts
+
+- BRC = Backup Request Calls.
+
+- Before: ~3 calls to get backup. Now: 5+ calls.
+
+- I feel we are slipping here. Needs reinforcement.
+
+
+### 🎼 "On My Way" Reply = Orchestra
+
+- We all carry HD phones. Calls heard by assoc and cust in store.  
+- Many assoc don’t reply. No reply = off-beat music in the store.
+- “On my way.” reply → Orchestra = Synced and Harmony.
+- I feel MOD could do a better job to reinfocre. 
+
+### "Not Seeing the Elephant in the Room" (AI)
+
+-   HD.com has at least two AI chat tools.
+-   I've used them at work. Helpful.
+-   It is 2026, No real in-store rollout yet.
+-   I fear that Lowes (OpenAI partnership) may gain upper hand
+-   Would be nice if we could address this before it becomes reactive.
+![AI bots](THD_vs_Lowes_16x9.png)
+
 
 ---
 
-## Something to Learn:
+## Something for me to Pick Up:
 
 - **Rental Department** – Want to know how tools work.  
 - Expand skill set.  
-- Explore Electronic BB idea with team.
+- Explore Parking-Lot BB idea with team.
 - Explore EVgo-side/THD Efficiecy flyer idea with team.
 
 ---
@@ -136,6 +122,6 @@ Dead zones. No SKU motion. Poor image.
 
 ## Support Requested
 
-- Let me help unleash the Elephant.
+- Let me help tamming the Elephant.
 - Encourage MOD to play Conducutor and keep the in-store Orchestra. 
-- Up my pay scale.
+- Up my pay scale, please :-)
