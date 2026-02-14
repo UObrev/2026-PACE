@@ -102,6 +102,13 @@
 ![AI bots](THD_vs_Lowes_16x9.png)
 
 
+### Pro Demo Kiosk
+
+- THD rolling out new AI tools; latest launched end of Jan.
+- I spoke with many Pros--many display strong interest in AI tool. 
+- I recommend to set up a kiosk in store.
+
+![Pro Demo Kiosk](ProDemo.png)
 ---
 
 ## Something for me to Pick Up:
