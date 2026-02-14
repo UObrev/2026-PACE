@@ -33,50 +33,36 @@
 
 ---
 
-## Went Not So Well (this to share my thoughts...)
+## Went Not So Well (my thoughts)
 
 ---
-### 🛠 Improve Accuracy + Tool Familiarity
+### Need to Improve Accuracy + Tool Familiarity
 
-- Get sharper with Tools: OrderUp, Return One, Pro Xtra, SPOS  
+- Need to get sharper with Tools: OrderUp, Return One, Pro Xtra, SPOS  
 - Continuously improve accuracy.  
-- Understand Rental system workflow end-to-end
 
-### 🌐 Understand the THD Ecosystem
+### Want to Better Understand the THD Ecosystem
 
-- Deep dive into service providers + vendors  
-- Understand logistics flow (who moves what, how, and when)  
-- Learn full store workflow — not just Service Desk bubble  
-- See how all pieces connect
+- Want to dive into service providers + vendors  
+- Want to understand logistics flow (who moves what, how, and when)  
+- Need to learn full store workflow — not just Service Desk bubble  
 
-### Gain Race Track Smart and Become Aisle Proficient
 
-- Answer customer questions with confidence + accuracy  
-- Know where frequent commodities are — no guessing
-- Stay alert on seasonal pushes
+### Hope to Gain Race Track Smart and Become Aisle Proficient
 
-### Prep for EVgo Walk-Ins
+- Like to be able to answer cust questions with confidence + accuracy  
+- Hope to stay alert on seasonal pushes
 
-- EVgo chargers -> more walk-ins. Would be nice if we could prep D-31 for that opportunity.
+### Prep D-31 for 2026 EVgo Walk-Ins
 
-- Suggest flyers and posters: key message "THD Efficiency: Charge your car. Get ready for your home project — all at the same time."
-
+- Background: EVgo chargers -> more walk-ins. Would be nice if we could prep D-31 for that opportunity.
+- Suggest use of flyers and posters: key message "THD Efficiency: Charge your car. Get ready for your home project — all at the same time."
 - Would be nice if we could explore the "EVgo-side" service concept.
 
 ![efficiency flyer](THD%20Efficiency.png)
 
 
-### Remap the "Cold Corridor" 
-
-- Corridor behind ice chest wall = low energy, low SKU motion.
-
-- Would be nice if we could use it to expand DIY Self Checkout.
-
-- I feel Mira Mesa store did a good job in this area.
-
-![self checkout](self-check-miramesa.webp)
-
-### Need to Lower BRC counts
+### Urge to Keep BRC Counts Low
 
 - BRC = Backup Request Calls. When surge in return line, we ring BRC.
 
@@ -85,14 +71,14 @@
 - I feel we are slipping here. Needs reinforcement.
 
 
-### 🎼 "On My Way" Reply = Orchestra
+### "On My Way" Reply = Orchestra, Urge the Practice
 
 - We all carry HD phones. Calls heard by assoc and cust in store.  
 - Many assoc don’t reply. No reply = off-beat music in the store.
 - “On my way.” reply → Orchestra = Synced and Harmony.
 - I feel MOD could do a better job to reinfocre. 
 
-### "Not Seeing the Elephant in the Room" (AI)
+### Suggest to Face "Elephant in the Room" (AI)
 
 -   HD.com has at least two AI chat tools.
 -   I've used them at work. Helpful.
@@ -102,7 +88,7 @@
 ![AI bots](THD_vs_Lowes_16x9.png)
 
 
-### Pro Demo Kiosk
+### Recommend Pro Demo Kiosk
 
 - THD rolling out new AI tools; latest launched end of Jan.
 - I spoke with many Pros--many display strong interest in AI tool. 
